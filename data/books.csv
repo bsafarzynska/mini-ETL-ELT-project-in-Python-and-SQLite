@@ -1,0 +1,6 @@
+id,title,author,price,stock
+1,The Hobbit,J.R.R. Tolkien,39.99,12
+2,Harry Potter,J.K. Rowling,29.99,7
+3,Game of Thrones,George R.R. Martin,49.99,5
+3,Game of Thrones,George R.R. Martin,49.99,5  # duplikat
+4,Lord of the Flies,William Golding,19.99,20
