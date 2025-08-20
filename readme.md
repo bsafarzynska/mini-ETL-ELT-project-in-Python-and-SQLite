@@ -11,8 +11,9 @@ Practical portfolio project showing both ETL (Python transform) and ELT (SQL tra
 # 1) Install
 pip install -r requirements.txt
 
-# 2) Run ETL (Python transforms) – creates books.db, schema, views
+# 2) Run ETL (Python transforms) – creates books.db
 python etl.py
 
 # 3) Run reports (pretty-printed to console)
+
 python run_reports.py
