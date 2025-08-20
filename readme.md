@@ -15,5 +15,4 @@ pip install -r requirements.txt
 python etl.py
 
 # 3) Run reports (pretty-printed to console)
-
 python run_reports.py
